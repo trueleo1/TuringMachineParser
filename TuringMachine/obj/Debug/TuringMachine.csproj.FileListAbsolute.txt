@@ -1,0 +1,9 @@
+c:\users\leo\documents\visual studio 2015\Projects\TuringMachine\TuringMachine\bin\Debug\TuringMachine.exe.config
+c:\users\leo\documents\visual studio 2015\Projects\TuringMachine\TuringMachine\bin\Debug\TuringMachine.exe
+c:\users\leo\documents\visual studio 2015\Projects\TuringMachine\TuringMachine\bin\Debug\TuringMachine.pdb
+c:\users\leo\documents\visual studio 2015\Projects\TuringMachine\TuringMachine\obj\Debug\TuringMachine.csprojResolveAssemblyReference.cache
+c:\users\leo\documents\visual studio 2015\Projects\TuringMachine\TuringMachine\obj\Debug\TuringMachine.exe
+c:\users\leo\documents\visual studio 2015\Projects\TuringMachine\TuringMachine\obj\Debug\TuringMachine.pdb
+C:\Users\Leo\Documents\GitHub\TuringMachineParser\TuringMachine\bin\Debug\TuringMachine.exe.config
+C:\Users\Leo\Documents\GitHub\TuringMachineParser\TuringMachine\obj\Debug\TuringMachine.exe
+C:\Users\Leo\Documents\GitHub\TuringMachineParser\TuringMachine\obj\Debug\TuringMachine.pdb
